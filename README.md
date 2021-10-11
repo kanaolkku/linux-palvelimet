@@ -5,3 +5,4 @@
 ## [Neljännen viikon tehtäväraportti (H4)](https://github.com/kanaolkku/linux-palvelimet/blob/main/h4.md)
 ## [Viidennen viikon tehtäväraportti (H5)](https://github.com/kanaolkku/linux-palvelimet/blob/main/h5.md)
 ## [Kuudennen viikon tehtäväraportti (H6)](https://github.com/kanaolkku/linux-palvelimet/blob/main/h6.md)
+## [Seitsemännen viikon tehtäväraportti (H7)](https://github.com/kanaolkku/linux-palvelimet/blob/main/h7.md)
